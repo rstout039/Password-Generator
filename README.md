@@ -11,3 +11,4 @@ https://github.com/rstout039/Password-Generator/blob/master/Generator/Password%2
 
 https://github.com/rstout039/Password-Generator/blob/master/Generator/Password%20generator.js
 
+https://github.com/rstout039/Password-Generator/blob/master/Generator/styles.css
