@@ -9,4 +9,5 @@ The previous passwords the user generates are then stored underneath previous pa
 When the browser is refreshed all the previous passwords disappear and the user is prompted again with the same questions.
 https://github.com/rstout039/Password-Generator/blob/master/Generator/Password%20generator.html 
 
+https://github.com/rstout039/Password-Generator/blob/master/Generator/Password%20generator.js
 
